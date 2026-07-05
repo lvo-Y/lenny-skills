@@ -21,6 +21,7 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 
 | Skill | Description |
 |-------|-------------|
+| [科普图文生产系统](skills/科普图文生产系统/) | 小红书科普图文生产系统，把干货文章拆成蓝图并生成封面、内页、文案改写和质检提示词 |
 | [ai-evals](skills/ai-evals/) | Help users create and run AI evaluations for LLM products |
 | [ai-product-strategy](skills/ai-product-strategy/) | Help users define AI product strategy and decide where to apply AI |
 | [analyzing-user-feedback](skills/analyzing-user-feedback/) | Help users synthesize and act on customer feedback |
